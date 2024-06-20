@@ -3,44 +3,26 @@
         <div class="row mb-5">
           <div class="col-md-6 col-lg-3">
             <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">Kusina</h2>
-              <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-              <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-3">
-                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+              <h2 class="ftco-heading-2">CUM'IN GO</h2>
+              <p>With our passion for hospitality, we take pride in bringing together people and the restaurants they love in the moments that matter. Pull up a chair through <br> CUM'IN GO.</p>
+              </div>
+          </div>
+
+          <div class="col-md-6 col-lg-3">
+            <div class="ftco-footer-widget mb-4">
+            <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-3">
+                <li class="ftco-animate"><a href="https://twitter.com/login"><span class="icon-twitter"></span></a></li>
+                <li class="ftco-animate"><a href="https://www.facebook.com/"><span class="icon-facebook"></span></a></li>
+                <li class="ftco-animate"><a href="https://www.instagram.com/?hl=en"><span class="icon-instagram"></span></a></li>
+                <li class="ftco-animate"><a href="https://in.linkedin.com/"><span class="icon-linkedin"></span></a></li>
               </ul>
             </div>
           </div>
-          <div class="col-md-6 col-lg-3">
-            <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">Open Hours</h2>
-              <ul class="list-unstyled open-hours">
-                <li class="d-flex"><span>Monday</span><span>9:00 - 24:00</span></li>
-                <li class="d-flex"><span>Tuesday</span><span>9:00 - 24:00</span></li>
-                <li class="d-flex"><span>Wednesday</span><span>9:00 - 24:00</span></li>
-                <li class="d-flex"><span>Thursday</span><span>9:00 - 24:00</span></li>
-                <li class="d-flex"><span>Friday</span><span>9:00 - 02:00</span></li>
-                <li class="d-flex"><span>Saturday</span><span>9:00 - 02:00</span></li>
-                <li class="d-flex"><span>Sunday</span><span> Closed</span></li>
-              </ul>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-3">
-            <div class="ftco-footer-widget mb-4">
-            	<h2 class="ftco-heading-2">Newsletter</h2>
-            	<p>Far far away, behind the word mountains, far from the countries.</p>
-              <form action="#" class="subscribe-form">
-                <div class="form-group">
-                  <input type="text" class="form-control mb-2 text-center" placeholder="Enter email address">
-                  <input type="submit" value="Subscribe" class="form-control submit px-3">
-                </div>
-              </form>
-            </div>
-          </div>
+          
+
           <div class="col-md-6 col-lg-3">
              <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">Instagram</h2>
+              <h2 class="ftco-heading-2">Foodies Love Us !!</h2>
               <div class="thumb d-sm-flex">
 	            	<a href="#" class="thumb-menu img" style="background-image: url(images/insta-1.jpg);">
 	            	</a>
@@ -59,13 +41,12 @@
 	            </div>
             </div>
           </div>
+          <div>
         </div>
         <div class="row">
           <div class="col-md-12 text-center">
-
-            <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+             <p>
+            Copyright &copy; <b>Cum'in Go</b> | Feel the design by ANUAKSHIDHA <br> All rights reserved | <u>Cum'in Go</u> is made with <i class="icon-heart" aria-hidden="true"></i></p>
           </div>
         </div>
       </div>
@@ -74,6 +55,12 @@
 
   <!-- loader -->
   <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
+
+
+
+
+<!-- JavaScript Bundle with Popper -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
 
 
   <script src="js/jquery.min.js"></script>

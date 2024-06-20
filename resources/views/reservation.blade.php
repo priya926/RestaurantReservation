@@ -58,9 +58,9 @@
                     <label for="">Person</label>
                     <div class="select-wrap one-third">
                       <div class="icon"><span class="ion-ios-arrow-down"></span></div>
-                      <select name="" id="" class="form-control">
-                        <option value="">Person</option>
-                        <option value="">1</option>
+                      <select name="person" id="" class="form-control">
+                        <option value="Person">Person</option>
+                        <option value="1">1</option>
                         <option value="">2</option>
                         <option value="">3</option>
                         <option value="">4+</option>
