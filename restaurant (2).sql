@@ -1,3 +1,4 @@
+-- This is SQL file
 -- phpMyAdmin SQL Dump
 -- version 5.1.3
 -- https://www.phpmyadmin.net/
